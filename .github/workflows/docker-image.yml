@@ -1,4 +1,4 @@
-name: OV2XMP FTP Server Docker Image CI
+name: ov2xmp-ftp-server
 
 on:
   push:
